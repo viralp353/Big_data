@@ -27,7 +27,9 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 ## link to analysis:
 
+ETL challenge link-https://colab.research.google.com/drive/1DjHuAva-d9jpgtLEiYYACqTifsW3Camo?usp=sharing
 
+Review based on vine analyis -https://colab.research.google.com/drive/19gcKfO9dHIBEthoFbjRtxljzS9jf6D41?usp=sharing
 
 
 ## Summary for Analysis:
@@ -45,7 +47,7 @@ for vine review,I did make dataframe for vine review .I got 895 total review for
 ![Screenshot (112)](https://user-images.githubusercontent.com/65969608/93726531-25634280-fb7c-11ea-8041-cd59d0d0a03d.png)
 
 
-for non vine review,I did make dataframe for non vine(No) review.I got 4365429 total review for vine.and then I started analysis based on 1-5 star rating.They were total 2639077 5-star review rating .for more analysis, I did check with all star rating .They were total number total 847364 for 4-star rating, total for 404078 3-star rating, total 242794 for 2-star rating,total 232116 for 1-star rating. Number is going up with star and also It was around 60% for 5 star rating percentange from total count.Based on star number and percentange ,I did decide 5-star rating for bias. For more statatics, see on table. They were mean around 0.79 % for helpfull votes and 0.92% for total votes.Based on analysis, WE can tell that mostly people didn.t give their votes for review.
+for non vine review,I did make dataframe for non vine(No) review.I got 4365429 total review for vine.and then I started analysis based on 1-5 star rating.They were total 2639077 5-star review rating .for more analysis, I did check with all star rating .They were total number total 847364 for 4-star rating, total for 404078 3-star rating, total 242794 for 2-star rating,total 232116 for 1-star rating. Number is going up with star and also It was around 60% for 5 star rating percentange from total count.Based on star number and percentange ,I did decide 5-star rating for bias. For more statatics, see on table. They were mean around 0.79 % for helpfull votes and 0.92% for total votes.Based on analysis, We can tell that mostly people didn't give their votes for review.
 
 ![Screenshot (113)](https://user-images.githubusercontent.com/65969608/93726539-3318c800-fb7c-11ea-8cfb-2300859e0e47.png)
 
